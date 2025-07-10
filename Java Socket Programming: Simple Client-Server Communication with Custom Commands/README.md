@@ -1,3 +1,45 @@
+### ✅ **Steps to Run the Java Client-Server Program**
+
+1. **Save the files**:
+
+   * Save server code as `Server.java`
+   * Save client code as `Client.java`
+
+2. **Open terminal / command prompt**
+
+3. **Navigate to the folder** where the files are saved:
+
+   ```bash
+   cd path/to/your/files
+   ```
+
+4. **Compile both Java files**:
+
+   ```bash
+   javac Server.java
+   javac Client.java
+   ```
+
+5. **Run the Server first** (in one terminal):
+
+   ```bash
+   java Server
+   ```
+
+6. **Run the Client** (in another terminal or new command prompt):
+
+   ```bash
+   java Client
+   ```
+
+7. **Type messages in client terminal**, like:
+
+   * `Hi`
+   * `Ok`
+   * `Date`
+   * `exit` (to close)
+
+8. **Done!** ✅
 
 
 ## 📌 **Topic Name:**
